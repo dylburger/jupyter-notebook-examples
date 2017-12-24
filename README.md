@@ -19,3 +19,7 @@ Once finished, run
     jupyter notebook
 
 to open these notebooks in a web browser, where you can work with the code.
+
+## Index
+
+* [Plotting Basic Line Plots in Matplotlib, varying the color of the line in complex ways](Plotting Different Colors At Points (Matplotlib).ipynb)
