@@ -22,4 +22,4 @@ to open these notebooks in a web browser, where you can work with the code.
 
 ## Index
 
-* [Plotting Basic Line Plots in Matplotlib, varying the color of the line in complex ways](Plotting Different Colors At Points (Matplotlib).ipynb)
+* [Plotting Basic Line Plots in Matplotlib, varying the color of the line in complex ways](Plotting_Different_Colors_At_Points_In_Matplotlib.ipynb)
