@@ -2,7 +2,7 @@ This directory provides an example project structure for Python analysis project
 
 There is no well-shared convention for how to structure your code into subdirectories. There are a couple of reasons I hypothesize this is the case:
 
-* Analysts are not software developers. In software development, project structures are often built into the tooling (e.g. [Ruby on Rails](https://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/) or established by convention.
+* Analysts are not software developers. In software development, project structures are often built into the tooling (e.g. [Ruby on Rails](https://www.sitepoint.com/a-quick-study-of-the-rails-directory-structure/)) or established by convention.
 * Analyses may be as small as a Jupyter notebook or contain many shared modules, notebooks, other scripts and applications. You shouldn't impose a structure for unnecessary code, where your use case is simple.
 
 If you have a single Jupyter notebook, you may not need a project structure. As your project grows, consider some of the examples and references below.
