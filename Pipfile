@@ -11,6 +11,7 @@ pandas = "*"
 plotly = "*"
 jupyter = "*"
 sklearn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.6"
